@@ -1,1 +1,16 @@
 Notes on Type of testing – Unit and Integration testing
+
+Updated by 25_Jay
+
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems.
+
+It tests for security, performance, resource loss,timing problems, and other issues that can’t be tested at lower levels of integration
+
+It is a white box type testing
+
+The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested.
+
+Beta Testing is the equivalent of Acceptance testing as the final end-users who will buy the game are involved in the testing.
+
+It is a black box type testing 
+
